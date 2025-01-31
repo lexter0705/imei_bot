@@ -1,0 +1,6 @@
+{
+  "admin_api_key": "<KEY BUY API>>",
+  "database_path": "./database/main.db",
+  "api_link": "http://HOST:PORT/imei_api",
+  "bot_token": "<TOKEN>"
+}
